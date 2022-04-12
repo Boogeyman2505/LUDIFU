@@ -1,0 +1,15 @@
+*Task 2*
+
+SEO stands for Search Engine Optimisation. 
+It means the process of improving your site to increase its visibility when people search for products or services related to your business in Google, Bing, and other search engines. 
+
+Why is SEO important for marketing....?
+SEO is a fundamental part of digital marketing because people conduct innumerable of searches every year, often with commercial intent to find information about products and services. 
+
+Types of SEO....??
+1) On-page SEO: Content, Architecture, HTML
+The title of the page or article, the depth of research, keywords used and so on should all be used with your specific audience’s needs in mind. 
+2) Off-page SEO: Reputation, Links, User
+
+How SEO works....??
+Search engines such as Google and Bing use bots to crawl pages on the web, going from site to site, collecting information about those pages and putting them in an index.

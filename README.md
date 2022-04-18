@@ -1,2 +1,1 @@
 # LUDIFU
-Summer Internship
